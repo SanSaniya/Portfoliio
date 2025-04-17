@@ -1,0 +1,49 @@
+[ {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title":"Firebase",
+    "imageSrc":"skills/firebase.png"
+  },
+  {
+    "title": "Wordpress",
+    "imageSrc": "skills/wp.png"
+  },
+  {
+    "title":"Java",
+    "imageSrc":"skills/java.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Machine Learning",
+    "imageSrc": "skills/ml1.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pd2.png"
+  },
+  {
+    "title": "Kali Linux",
+    "imageSrc": "skills/kl.png"
+  }
+]

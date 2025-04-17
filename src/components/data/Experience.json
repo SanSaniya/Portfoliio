@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "Wordpress Developer - Intern",
+    "organisation": "Techyard Labs",
+    "startDate": "June, 2024",
+    "endDate": "August, 2024",
+    "location": "Dehradun, Uttarakhand",
+    "experiences": [
+      "Worked on Wordpress Website Development",
+      "Familarity with Search Engine tools"
+    ],
+    "imageSrc": "company/company.png"
+  }
+]
