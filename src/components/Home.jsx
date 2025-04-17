@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import pdf from "../pdf/resume.pdf";
-import hero from "./data/Hero.json";
+import hero from "./data/hero.json";
 import Typed from "typed.js";
 import pic from "../assets/pic1.jpeg";
 
