@@ -12,7 +12,7 @@
     "title": "NGO Website",
     "imageSrc": "projects/ngo.jpg",
     "description": "Built with HTML, CSS & JavaScript and hosted on Firebase.",
-    "demo": "https://github.com/SanSaniya/myNGO.git",
+    "demo": "https://irunngotoday.vercel.app/",
     "source": "https://github.com/SanSaniya/myNGO.git"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Weather Forcast",
     "imageSrc": "projects/weather.jpg",
     "description": "Developed with HTML, CSS, JavaScript with API integration.",
-    "demo": "https://github.com/SanSaniya/Weather-App.git",
+    "demo": "https://weather-6spsbuacn-saniya-maliks-projects-a378e3e0.vercel.app/",
     "source": "https://github.com/SanSaniya/Weather-App.git"
   },
   {
