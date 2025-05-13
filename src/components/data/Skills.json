@@ -1,5 +1,5 @@
 [ {
-    "title": "React",
+    "title": "React.js",
     "imageSrc": "skills/react.png"
   },
   {
@@ -37,6 +37,10 @@
   {
     "title": "Machine Learning",
     "imageSrc": "skills/ml1.png"
+  },
+  {
+    "title": "Scikit-learn",
+    "imageSrc": "skills/sl.png"
   },
   {
     "title": "Pandas",

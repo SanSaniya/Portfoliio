@@ -4,6 +4,10 @@ This is my React Animated Portfolio Website.
 
 ---
 
+# Run vite dev server using
+
+npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
